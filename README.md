@@ -13,13 +13,8 @@ Moreover, I have collaborated with [Dr. Pin-Yu Chen](https://scholar.google.com/
 I’m a full-stack developer.
 Since I have mainly worked in the scientific research community, most of my open source projects are programmed in Python.
 I have also rewritten or reconstructed some other projects with low-level programming language into Python for better use by relevant scientists.
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haolingzhang&langs_count=8)](https://github.com/HaolingZHANG)
-
 In the past three years, I have developed more than 25 algorithms/frameworks and have coded more than 400,000 lines.
 The 19 open-source repositories are as follows, the remaining repositories will be released with sufficient tests and/or papers published.
-
-![Haoling's GitHub stats](https://github-readme-stats.vercel.app/api?username=haolingzhang&show_icons=true)
 
 Some key open-source repositories are:
 1. [Chamaeleo](https://github.com/ntpz870817/Chamaeleo): an integrated evaluation platform for DNA-based data storage.
