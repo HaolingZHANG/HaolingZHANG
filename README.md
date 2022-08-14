@@ -1,5 +1,6 @@
 ### Hi there 👋
 [![trophy](https://github-profile-trophy.vercel.app/?username=haolingzhang)](https://github.com/HaolingZHANG)
+
 I'm a senior algorithm engineer at BGI-Research and a member of George Church Institute of Regenesis. 
 I led or participated in research of coding algorithms, architectures, software packages, and standardization in the field of DNA storage, published 4 papers including one in *Nature Computational Science*, under the guidance of [Prof. George Church](https://scholar.google.com/citations?user=SfDzdgEAAAAJ) at Harvard Medical School and [Dr. Yue Shen](https://scholar.google.com/citations?user=klXVMqMAAAAJ) at BGI-Research.
 Besides, with my experience in engineering, mathematics and genomics, I have effectively undertaken the cooperation with coding scientists such as [Prof. Gennian Ge](https://scholar.google.com/citations?user=EyOXBysAAAAJ) at Capital Normal University and [Prof. Yiwei Zhang](https://scholar.google.com/citations?user=3vEb9vQAAAAJ) at Shandong University.
