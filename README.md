@@ -25,4 +25,5 @@ Some key open-source repositories are:
 5. [ReverseEncodingTree](https://github.com/HaolingZHANG/ReverseEncodingTree): an implementation of the work *Evolving Neural Network through the Reverse Encoding Tree*.
 6. [FasterHammingCalculator](https://github.com/HaolingZHANG/FasterHammingCalculator): A large-scale Hamming distance calculation accelerator using the customized three-dimensional matrix (10 ~ 100 times).
 7. [pymolBE](https://github.com/HaolingZHANG/pymolBE): Customized batch exhibition of three-dimensional molecules based on the pymol framework.
+8. [GenomeCompact](https://github.com/HaolingZHANG/GenomeCompact): a lossless compression algorithm for T4 Phage.
 
