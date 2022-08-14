@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, there 👋
 [![trophy](https://github-profile-trophy.vercel.app/?username=haolingzhang)](https://github.com/HaolingZHANG)
 
 I'm a senior algorithm engineer at BGI-Research and a member of George Church Institute of Regenesis. 
