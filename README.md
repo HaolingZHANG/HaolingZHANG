@@ -6,7 +6,7 @@ Besides, with my experience in engineering, mathematics and genomics, I have eff
 
 
 Concurrently, I received valuable training from [Prof. Jesper Tegnér](https://scholar.google.com/citations?user=_DUppAgAAAAJ) at King Abdullah University of Science and Technology, [Prof. ‪Hector Zenil‬](https://scholar.google.com/citations?user=P6z3U-wAAAAJ) at University of Cambridge, and [Prof. Narsis Kiani](https://scholar.google.com/citations?user=odJXANUAAAAJ) at Karolinska Institute, [Dr. Chao-Han Huck Yang](https://scholar.google.com/citations?user=TT3XJW8AAAAJ) at Georgia Institute of Technology on machine learning and causal discovery.
-Moreover, I have collaborated with [Dr. Pin-Yu Chen](https://scholar.google.com/citations?user=jxwlCUUAAAAJ) at IBM Research and [Dr. Chao-Han Huck Yang](https://scholar.google.com/citations?user=TT3XJW8AAAAJ) on adversarial robustness of artificial neural networks.
+Moreover, I have collaborated with [Dr. Pin-Yu Chen](https://scholar.google.com/citations?user=jxwlCUUAAAAJ) at IBM Research on adversarial robustness of artificial neural networks.
 
 ---
 
