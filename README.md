@@ -6,13 +6,13 @@ Besides, with my experience in engineering, mathematics and genomics, I have eff
 
 
 Concurrently, I received valuable training from [Prof. Jesper Tegnér](https://scholar.google.com/citations?user=_DUppAgAAAAJ) at King Abdullah University of Science and Technology, [Prof. ‪Hector Zenil‬](https://scholar.google.com/citations?user=P6z3U-wAAAAJ) at University of Cambridge, [Prof. Narsis Kiani](https://scholar.google.com/citations?user=odJXANUAAAAJ) at Karolinska Institute, and [Dr. Chao-Han Huck Yang](https://scholar.google.com/citations?user=TT3XJW8AAAAJ) at Georgia Institute of Technology on machine learning and causal discovery.
-Moreover, I have collaborated with [Dr. Pin-Yu Chen](https://scholar.google.com/citations?user=jxwlCUUAAAAJ) at IBM Research on adversarial robustness of artificial neural networks.
+Moreover, I have collaborated with [Dr. Pin-Yu Chen](https://scholar.google.com/citations?user=jxwlCUUAAAAJ) at IBM Research on adversarial robustness.
 
 ---
 
 I’m a full-stack developer.
-Since I have mainly worked in the scientific research community, most of my open source projects are programmed in Python.
-I have also rewritten or reconstructed some other projects with low-level programming language into Python for better use by relevant scientists.
+Since I have mainly worked in the scientific research community, most of my open-source projects are programmed in Python.
+I have also reprogrammed or reconstructed some other projects with low-level programming language into Python for better use by relevant scientists.
 In the past three years, I have developed more than 25 algorithms/frameworks and have coded more than 400,000 lines.
 The 19 open-source repositories are as follows, the remaining repositories will be released with sufficient tests and/or papers published.
 
