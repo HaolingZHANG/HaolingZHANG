@@ -1,4 +1,4 @@
-### Hi, here 👋
+### Hi, there 👋
 
 I'm Haoling (Horus) Zhang, a senior algorithm engineer at BGI-Research and a member of George Church Institute of Regenesis. 
 I led or participated in research of coding algorithms, architectures, software packages, and standardization in the field of DNA storage, published 4 papers including one in *Nature Computational Science*, under the guidance of [Prof. George Church](https://scholar.google.com/citations?user=SfDzdgEAAAAJ) at Harvard Medical School and [Dr. Yue Shen](https://scholar.google.com/citations?user=klXVMqMAAAAJ) at BGI-Research.
@@ -23,6 +23,7 @@ Some key open-source repositories are:
 4. [pyHEDGES](https://github.com/HaolingZHANG/pyHEDGES): a rewritten implementation of the work *HEDGES Error-Correcting Code for DNA Storage Corrects Indels and Allows Sequence Constraints* in the Python platform ([C++](https://github.com/whpress/hedges) originally, published in *Proceedings of the National Academy of Sciences*).
 5. [ReverseEncodingTree](https://github.com/HaolingZHANG/ReverseEncodingTree): an implementation of the work *Evolving Neural Network through the Reverse Encoding Tree*.
 6. [FasterHammingCalculator](https://github.com/HaolingZHANG/FasterHammingCalculator): A large-scale Hamming distance calculation accelerator using the customized three-dimensional matrix (10 ~ 100 times).
-7. [pymolBE](https://github.com/HaolingZHANG/pymolBE): Customized batch exhibition of three-dimensional molecules based on the pymol framework.
-8. [GenomeCompact](https://github.com/HaolingZHANG/GenomeCompact): a lossless compression algorithm for T4 Phage.
+7. [pymolBE](https://github.com/HaolingZHANG/pymolBE): Customized batch exhibition of three-dimensional molecules based on PyMOL framework.
+8. [StructureCluster](https://github.com/HaolingZHANG/StructureCluster): It provides some scripts for protein comparison (clustering) and format conversion.
+9. [GenomeCompact](https://github.com/HaolingZHANG/GenomeCompact): a lossless compression algorithm for T4 Phage.
 
