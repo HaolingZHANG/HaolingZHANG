@@ -5,7 +5,7 @@ I led or participated in research of coding algorithms, architectures, software 
 Besides, with my experience in engineering, mathematics and genomics, I have effectively undertaken the cooperation with coding scientists such as [Prof. Gennian Ge](https://scholar.google.com/citations?user=EyOXBysAAAAJ) at Capital Normal University and [Prof. Yiwei Zhang](https://scholar.google.com/citations?user=3vEb9vQAAAAJ) at Shandong University.
 
 
-Concurrently, I received valuable training from [Prof. Jesper Tegnér](https://scholar.google.com/citations?user=_DUppAgAAAAJ) at King Abdullah University of Science and Technology, [Prof. ‪Hector Zenil‬](https://scholar.google.com/citations?user=P6z3U-wAAAAJ) at University of Cambridge, [Prof. Narsis Kiani](https://scholar.google.com/citations?user=odJXANUAAAAJ) at Karolinska Institute, and [Dr. Chao-Han Huck Yang](https://scholar.google.com/citations?user=TT3XJW8AAAAJ) at Georgia Institute of Technology on machine learning and causal discovery.
+Concurrently, I received valuable training from [Prof. Jesper Tegnér](https://scholar.google.com/citations?user=_DUppAgAAAAJ) at King Abdullah University of Science and Technology, [Prof. ‪Hector Zenil‬](https://scholar.google.com/citations?user=P6z3U-wAAAAJ) at University of Oxford, [Prof. Narsis Kiani](https://scholar.google.com/citations?user=odJXANUAAAAJ) at Karolinska Institute, and [Dr. Chao-Han Huck Yang](https://scholar.google.com/citations?user=TT3XJW8AAAAJ) at Georgia Institute of Technology on machine learning and causal discovery.
 Moreover, I have collaborated with [Dr. Pin-Yu Chen](https://scholar.google.com/citations?user=jxwlCUUAAAAJ) at IBM Research on adversarial robustness.
 
 ---
