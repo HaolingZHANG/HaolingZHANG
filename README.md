@@ -18,7 +18,7 @@ The 19 open-source repositories are as follows, the remaining repositories will 
 
 Some key open-source repositories are:
 1. [Chamaeleo](https://github.com/ntpz870817/Chamaeleo): an integrated evaluation platform for DNA-based data storage.
-2. [DNASpiderWeb](https://github.com/HaolingZHANG/DNASpiderWeb): a general DNA-based data storage architecture and benchmark, the implementation of the work *SPIDER-WEB enables stable, repairable, and encryptable coding algorithms under arbitrary local biochemical constraints in DNA-based data storage*.
+2. [DNASpiderWeb](https://github.com/HaolingZHANG/DNASpiderWeb): a general DNA-based data storage architecture and benchmark, the implementation of the work *SPIDER-WEB generates coding algorithms with superior error tolerance and real-time information retrieval capacity*.
 3. [DNA-storage-YYC](https://github.com/ntpz870817/DNA-storage-YYC): an implementation of the work *Towards Practical and Robust DNA-based Data Archiving using the Yin–Yang Codec System* (published in *Nature Computational Science*).
 4. [pyHEDGES](https://github.com/HaolingZHANG/pyHEDGES): a rewritten implementation of the work *HEDGES Error-Correcting Code for DNA Storage Corrects Indels and Allows Sequence Constraints* in the Python platform ([C++](https://github.com/whpress/hedges) originally, published in *Proceedings of the National Academy of Sciences*).
 5. [ReverseEncodingTree](https://github.com/HaolingZHANG/ReverseEncodingTree): an implementation of the work *Evolving Neural Network through the Reverse Encoding Tree*.
